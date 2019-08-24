@@ -1,3 +1,11 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+
+// Components
+import Header from '../components/Header';
+import Repos from '../components/Repos';
+export default () => 
+<div>
+  <Header />
+  <Repos />
+</div>
