@@ -1,0 +1,33 @@
+{
+  "slug": "others",
+  "title": "Otros logros académicos",
+  "description": "Talleres, cursos o diplomados en los que he participado",
+  "items": [
+    {
+      "name": "IronHack México",
+      "degree": "Web Development Bootcamp",
+      "status": "Certificate"
+    },
+    {
+      "name": "DGTIC UNAM",
+      "degree": "Administración de SQL Server",
+      "status": "Certificate"
+    },
+    {
+      "name": "Harmon Hall",
+      "degree": "Intensive Course",
+      "status": "Certificate"
+    },
+    {
+      "name": "Harmon Hall",
+      "degree": "Bussines Course",
+      "status": "Certificate"
+    },
+    {
+      "name": "Harmon Hall",
+      "degree": "Bussines Course",
+      "status": "Certificate"
+    }
+
+  ]
+}

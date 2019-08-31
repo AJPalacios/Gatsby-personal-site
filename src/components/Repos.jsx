@@ -25,6 +25,7 @@ export default () => {
       const response = await fetch("https://api.github.com/users/AJPalacios/repos")
       let myRepos = await response.json();
       setReposCount(myRepos.length)
+      myRepos = myRepos.slice(1,13)
       sessionStorage.setItem("repos", JSON.stringify(myRepos))
 
       setRepos(myRepos)

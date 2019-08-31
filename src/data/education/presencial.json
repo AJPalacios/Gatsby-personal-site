@@ -1,0 +1,18 @@
+{
+  "slug": "presencial",
+  "title": "Formación Académica",
+  "description": "Formación Académica, grados de estudio e instituciones a las que asistí",
+  "items": [
+    {
+      "name": "Universidad Tecnológica de México",
+      "degree": "Ing. en Sistemas Computacionales",
+      "status": "In Course"
+    },
+    {
+      "name": "Instituto Tecnológico de Tlahuac",
+      "degree": "Ing. en Sistemas Computacionales",
+      "status": "Truncate"
+    }
+
+  ]
+}
