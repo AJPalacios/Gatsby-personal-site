@@ -4,7 +4,11 @@
     "email": "tgrhtcks@gmail.com",
     "username": "adanpalacios",
     "certificates": [
-      
+      {
+        "score": 9,
+        "code": "085b2ebe-6a03-4431-bcc3-18d108ab82b1",
+        "title": "Curso profesional de Kotlin"
+      }
     ],
     "articles": [
       
@@ -222,7 +226,7 @@
       },
       {
         "title": "Curso Profesional de JavaScript",
-        "progress": "31.0",
+        "progress": "35.0",
         "url": "http://codigofacilito.com/courses/javascript-profesional"
       },
       {
@@ -317,7 +321,7 @@
       },
       {
         "title": "Curso profesional de Kotlin",
-        "progress": "34.0",
+        "progress": "100.0",
         "url": "http://codigofacilito.com/courses/kotlin-profesional"
       },
       {
@@ -482,7 +486,7 @@
       },
       {
         "title": "Taller de introducción a Jenkins",
-        "progress": "6.0",
+        "progress": "12.0",
         "url": "http://codigofacilito.com/courses/taller-jenkins"
       },
       {
@@ -562,18 +566,43 @@
       },
       {
         "title": "Crea un sitio personal con Gatsby",
-        "progress": "60.0",
+        "progress": "100.0",
         "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
       },
       {
         "title": "Curso de introducción a los Algoritmos",
-        "progress": "27.0",
+        "progress": "55.0",
         "url": "http://codigofacilito.com/courses/algoritmos"
       },
       {
         "title": "Curso de aplicaciones web con Django",
-        "progress": "5.0",
+        "progress": "7.0",
         "url": "http://codigofacilito.com/courses/aplicaciones-web-django"
+      },
+      {
+        "title": "Curso de programación funcional en Java",
+        "progress": "28.0",
+        "url": "http://codigofacilito.com/courses/java-programacion-funcional"
+      },
+      {
+        "title": "Curso para crear un ecommerce serverless",
+        "progress": "37.0",
+        "url": "http://codigofacilito.com/courses/serverless-ecommerce"
+      },
+      {
+        "title": "Curso de fundamentos de SEO 2019",
+        "progress": "26.0",
+        "url": "http://codigofacilito.com/courses/seo-fundamentos"
+      },
+      {
+        "title": "Curso de Android con la arquitectura MVP",
+        "progress": "34.0",
+        "url": "http://codigofacilito.com/courses/android-mvp"
+      },
+      {
+        "title": "Taller para crear APIs con Flask",
+        "progress": "8.0",
+        "url": "http://codigofacilito.com/courses/api-rest-flask"
       }
     ],
     "finished_courses": [
@@ -596,6 +625,10 @@
       {
         "title": "Curso Profesional de Git",
         "url": "http://codigofacilito.com/courses/git-profesional"
+      },
+      {
+        "title": "Curso profesional de Kotlin",
+        "url": "http://codigofacilito.com/courses/kotlin-profesional"
       },
       {
         "title": "Taller para integrar servicios de Google con React",
@@ -628,6 +661,10 @@
       {
         "title": "Curso de GraphQL con NodeJS",
         "url": "http://codigofacilito.com/courses/graphql-nodejs"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
       }
     ]
   },
