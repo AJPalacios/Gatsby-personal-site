@@ -13,7 +13,7 @@ export default () => {
             <p className="text-xl font-light text-justify mr-4">
               Estoy ubicado en Ciudad de Mèxico, desde 2016 tengo experiencia profesional como Full Stack Developer, he pasado por diferentes tecnologias, como PHP, JavaScript y Java enfocado al desarrollo movil, 
               algunas tecnologías que he utilizado se ecuentran 
-              Node Js,GraphQL, MongoDB, Docker, Laravel, React JS ❤️, Vue Js etc...
+              NodeJs, GraphQL, MongoDB, Docker, Laravel, React JS ❤️, Vue Js etc...
             </p>
           </div>
           <img src={Hero} alt="cube" style={{height: '300px'}}/>
